@@ -17,7 +17,7 @@ android {
         minSdk = 21
         targetSdk = 31
         versionCode = 262
-        versionName = "2.6.2 (Crimson)"
+        versionName = "2.6.2 (Crimson) - github mirror"
 
         vectorDrawables {
             useSupportLibrary = true

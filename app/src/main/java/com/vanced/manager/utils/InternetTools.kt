@@ -144,4 +144,4 @@ fun checkSHA256(sha256: String, updateFile: File): Boolean {
     }
 }
 
-const val baseUrl = "https://api.vancedapp.com/api/v1"
+const val baseUrl = "https://raw.githubusercontent.com/ztc1997/VancedApiMirror/main"
